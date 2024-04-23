@@ -1,0 +1,1 @@
+set "CATALINA_OPTS=-javaagent:%CATALINA_HOME%\webapps\webroot\WEB-INF\lib\FineCrack.jar"
